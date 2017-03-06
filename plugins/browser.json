@@ -1,0 +1,61 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.potpie.vibrationalert"
+        }
+    }
+}
